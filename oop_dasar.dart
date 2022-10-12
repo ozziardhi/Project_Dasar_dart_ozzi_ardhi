@@ -37,4 +37,4 @@ main() {
   print("Nama: ${karyawan.getName()}");
   print("Alamat: ${karyawan.getAddress()}");
   print("Pembayaran: ${karyawan.getpembayaran()}");
-}//belajar oop ozzi ardhi
+}//belajar oop ozzi ardhiyanto
